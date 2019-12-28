@@ -14,6 +14,7 @@ int main()
     d.add_to_beginning("Jan", "Jádro", 5);
     d.add_to_end("Jób", "Jetel", 22);
     d.add_to_beginning("Sára", "Vohřálvodová", 20);
+    d.add_to_end ("Martin","Poupa",18);
 
     d.print();
     cout <<"------------------"<<endl;

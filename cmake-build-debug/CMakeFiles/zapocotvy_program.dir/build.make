@@ -43,10 +43,10 @@ RM = /cygdrive/c/Users/Uzivatel/.CLion2019.2/system/cygwin_cmake/bin/cmake.exe -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/zapocotvy_program.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/zapocotvy_program.dir/flags.make
 
 CMakeFiles/zapocotvy_program.dir/main.cpp.o: CMakeFiles/zapocotvy_program.dir/flags.make
 CMakeFiles/zapocotvy_program.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/zapocotvy_program.dir/main.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/zapocotvy_program.dir/main.cpp.o -c /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/zapocotvy_program.dir/main.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/zapocotvy_program.dir/main.cpp.o -c /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/main.cpp
 
 CMakeFiles/zapocotvy_program.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zapocotvy_program.dir/main.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/main.cpp > CMakeFiles/zapocotvy_program.dir/main.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/main.cpp > CMakeFiles/zapocotvy_program.dir/main.cpp.i
 
 CMakeFiles/zapocotvy_program.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zapocotvy_program.dir/main.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/main.cpp -o CMakeFiles/zapocotvy_program.dir/main.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/main.cpp -o CMakeFiles/zapocotvy_program.dir/main.cpp.s
 
 CMakeFiles/zapocotvy_program.dir/linked_list.cpp.o: CMakeFiles/zapocotvy_program.dir/flags.make
 CMakeFiles/zapocotvy_program.dir/linked_list.cpp.o: ../linked_list.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/zapocotvy_program.dir/linked_list.cpp.o"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/zapocotvy_program.dir/linked_list.cpp.o -c /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/linked_list.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/zapocotvy_program.dir/linked_list.cpp.o"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/zapocotvy_program.dir/linked_list.cpp.o -c /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/linked_list.cpp
 
 CMakeFiles/zapocotvy_program.dir/linked_list.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/zapocotvy_program.dir/linked_list.cpp.i"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/linked_list.cpp > CMakeFiles/zapocotvy_program.dir/linked_list.cpp.i
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/linked_list.cpp > CMakeFiles/zapocotvy_program.dir/linked_list.cpp.i
 
 CMakeFiles/zapocotvy_program.dir/linked_list.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/zapocotvy_program.dir/linked_list.cpp.s"
-	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/linked_list.cpp -o CMakeFiles/zapocotvy_program.dir/linked_list.cpp.s
+	/usr/bin/c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/linked_list.cpp -o CMakeFiles/zapocotvy_program.dir/linked_list.cpp.s
 
 # Object files for target zapocotvy_program
 zapocotvy_program_OBJECTS = \
@@ -95,7 +95,7 @@ zapocotvy_program.exe: CMakeFiles/zapocotvy_program.dir/main.cpp.o
 zapocotvy_program.exe: CMakeFiles/zapocotvy_program.dir/linked_list.cpp.o
 zapocotvy_program.exe: CMakeFiles/zapocotvy_program.dir/build.make
 zapocotvy_program.exe: CMakeFiles/zapocotvy_program.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable zapocotvy_program.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable zapocotvy_program.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/zapocotvy_program.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/zapocotvy_program.dir/clean:
 .PHONY : CMakeFiles/zapocotvy_program.dir/clean
 
 CMakeFiles/zapocotvy_program.dir/depend:
-	cd /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug/CMakeFiles/zapocotvy_program.dir/DependInfo.cmake --color=$(COLOR)
+	cd /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2 /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2 /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug/CMakeFiles/zapocotvy_program.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/zapocotvy_program.dir/depend
 

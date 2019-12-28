@@ -44,10 +44,10 @@ RM = /cygdrive/c/Users/Uzivatel/.CLion2019.2/system/cygwin_cmake/bin/cmake.exe -
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/zapocotvy_program.dir/all:
 	$(MAKE) -f CMakeFiles/zapocotvy_program.dir/build.make CMakeFiles/zapocotvy_program.dir/depend
 	$(MAKE) -f CMakeFiles/zapocotvy_program.dir/build.make CMakeFiles/zapocotvy_program.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target zapocotvy_program"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target zapocotvy_program"
 .PHONY : CMakeFiles/zapocotvy_program.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/zapocotvy_program.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zapocotvy_program.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Uzivatel/CLionProjects/pokus2/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/zapocotvy_program.dir/rule
 
 # Convenience name for target.
