@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/linked_list.h
+
+/cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/main.cpp
+iostream
+-
+linked_list.h
+/cygdrive/c/Users/Uzivatel/CLionProjects/zapocotvy_program/linked_list.h
+

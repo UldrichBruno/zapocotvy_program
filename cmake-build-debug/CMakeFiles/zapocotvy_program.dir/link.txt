@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/zapocotvy_program.dir/main.cpp.o CMakeFiles/zapocotvy_program.dir/linked_list.cpp.o  -o zapocotvy_program.exe -Wl,--out-implib,libzapocotvy_program.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
